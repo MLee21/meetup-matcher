@@ -1,28 +1,11 @@
-== README
+Meetup group recommendations based on the analysis of your tweets.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+About
 
-Things you may want to cover:
+MeetupMatcher is an app that suggests meetup groups based on a user's top five most used words from their tweets. It authenticates with Twitter and uses the Meetup API. It was a group project completed as part of the curriculum at the Turing School of Software & Design.
 
-* Ruby version
+For more information about the self-directed project, visit: https://https://github.com/turingschool/lesson_plans/blob/master/ruby_03-professional_rails_applications/feed_engine.markdown.
 
-* System dependencies
+Visit the website at:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+www.meetupmatcher.herokuapp.com
